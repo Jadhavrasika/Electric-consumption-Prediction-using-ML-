@@ -1,4 +1,4 @@
-#Household Power Consumption Prediction
+# Household Power Consumption Prediction
 ## Objective:
 Building a Machine Learning Regression Model
 The primary objective is to build a robust and accurate machine learning regression model that can predict future household power consumption based on historical data. This involves:
